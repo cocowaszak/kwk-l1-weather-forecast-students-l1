@@ -24,7 +24,7 @@ def iterate_through_hash
     puts "The weather in #{city} is #{description}."
   end 
 end 
-iterate_through_hash
+weather
 
 #4. Write a method that takes in the weather hash as an argument. 
 # You'll want to use the each method to iterate over the hash and print out
