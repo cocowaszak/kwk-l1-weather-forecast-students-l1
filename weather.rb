@@ -24,6 +24,8 @@ def temperature
   temperature_farenheit["66.3"] = "19.1"
   puts temperature_farenheit
 end 
+temperature_farenheit
+def iterate_
   weather.each do |city, description|
     puts "The weather in #{:city} is #{:description}. The temperature is "
   end 
