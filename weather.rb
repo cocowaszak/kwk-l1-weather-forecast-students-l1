@@ -26,7 +26,7 @@ def temperature
 end 
 temperature_farenheit
 
-  weather.each do |city, description|
+  temperature_farenheit.each do |city, description|
     puts "The weather in #{:city} is #{:description}. The temperature is "
   end 
 
